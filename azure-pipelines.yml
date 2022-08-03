@@ -3,6 +3,7 @@ pr:
     include:
     - adomigration
     - develop
+    - main2
   paths:
     include:
     - bpm
