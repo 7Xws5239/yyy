@@ -5,6 +5,9 @@ pr:
     - develop
     - main2
     - main3
+  paths:
+    include:
+    - bpm
 #  trigger: none
 trigger:
 - none
