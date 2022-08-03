@@ -4,9 +4,7 @@ pr:
     - adomigration
     - develop
     - main2
-  paths:
-    include:
-    - bpm
+    - main3
 #  trigger: none
 trigger:
 - none
