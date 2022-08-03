@@ -1,7 +1,7 @@
 pr:
   branches:
     include:
-    - adomigration
+    - refs/heads/adomigration
     - develop
     - main2
     - main3
